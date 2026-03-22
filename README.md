@@ -1,12 +1,16 @@
 
-# Exp 1 Mode Characteristics of Fiber Optic Cable
+## Exp-1 Mode Characteristics of Fiber Optic Cable
 
-## 🎯 AIM
+## NAME: SUNDARRAJAN K
+## REG NO: 212223060279
+
+## 🎯 AIM:
 To study the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes.
 
 ---
 
-## 🧰 EQUIPMENTS REQUIRED
+## 🧰 EQUIPMENTS REQUIRED:
+
 1. LASER Source (633 nm – 1mW)  
 2. Source to Fiber Coupler  
 3. Single Mode Fiber  
@@ -16,7 +20,7 @@ To study the mode characteristics of fiber optic cable and observe the lower ord
 ---
 
 
-## 📚 THEORY
+## 📚 THEORY:
 
 The central spot carries 95% of the intensity for laser beams with Gaussian profile. I = Ioe-2(r / w) ^2 where e = 2.718 is the base of the natural logarithm. An accepted definition of a radius of a Gaussian beam is t 0.135 times its peak value Io. This radius is called spot size. The spot diameter is w.
 Spot Diameter (d) micron = Focal length of the Lens (f) mm x Laser beam full divergence angle (DA) mrad.
@@ -34,7 +38,7 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 
 ---
 
-## 🧪 PROCEDURE
+## 🧪 PROCEDURE:
 
 1. Place the optical breadboard on a flat surface.
 2. Mount the He-Ne laser source securely onto the breadboard.
@@ -50,14 +54,22 @@ When V > 2.045, other modes may propagate, when V is slightly greater than 2.045
 ---
 
 
-## 📊 OBSERVATION AND CALCULATION
+## 📊 OBSERVATION AND CALCULATION:
 
-- 
+<img width="1600" height="1332" alt="image" src="https://github.com/user-attachments/assets/f66095d2-26cf-4bcd-a4c7-cc3d540d394e" />
+
+
+ 
 Parameter of given fiber are,
 A = 4.5μm (core radius), N.A = 0.11, λ = 633nm V = 2 π x A x N.A / λ = 4.91
 From fig. shows only 4 LP modes propagates.
 Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
-## Tabulation
-## Result
+## Tabulation:
+
+<img width="1599" height="1336" alt="image" src="https://github.com/user-attachments/assets/46afca14-c089-4761-a731-333103f0d8f6" />
+
+## Result:
+
+Thus, the experiment verified the presence of lower-order Linearly Polarized (LP) modes and confirmed the dependence of mode propagation on V-number and fiber alignment.
